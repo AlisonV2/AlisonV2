@@ -36,7 +36,7 @@
 
 <a href = 'https://www.linkedin.com/in/alison-vandromme'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<a href = 'www.alisonvandromme.com'> <img width = '32px' align= 'center' color="#49BFC7" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'www.alisonvandromme.com'> <img width = '32px' align= 'center' src="https://res.cloudinary.com/dhlpkwga4/image/upload/v1627369853/logo-mobile_tha1zh.png"/></a> 
 
 <a href = 'https://www.github.com/AlisonV2'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
