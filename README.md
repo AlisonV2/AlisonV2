@@ -2,7 +2,7 @@
 <img width="auto" height = "50%" src="https://res.cloudinary.com/dhlpkwga4/image/upload/v1627197433/resized-brand-logo_wiarjf.svg" alt="cover" />
 </div>
 
-<h1>  Hi! My name is Alison 🦄 </h1>
+<h1>  Hi! I'm Alison 🦄 </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlisonV2.AlisonV2)
