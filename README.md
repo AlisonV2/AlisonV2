@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img width="auto" height = "50%" src="https://res.cloudinary.com/dhlpkwga4/image/upload/v1627197433/resized-brand-logo_wiarjf.svg" alt="cover" />
 </div>
 
