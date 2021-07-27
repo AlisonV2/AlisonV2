@@ -26,5 +26,5 @@
 
 <h2> My GitHub Stats </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlisonV2&theme=dark&border=49BFC7&fire=6dccd2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlisonV2&theme=algolia&border=49BFC7&fire=6dccd2)](https://git.io/streak-stats)
 
