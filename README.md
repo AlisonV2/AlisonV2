@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-- ⚙️ **I’m currently working on:** some Nuxtjs project, a PWA, writing better .md's 🙃 and improving my overall visibility 👁️
+- ⚙️ **I’m currently working on:** some MEVN project, writing better .md's 🙃 and improving my overall visibility 👁️
 
 - 📚 **I’m currently learning:** Node, No-SQL and anything Devops-related
 
