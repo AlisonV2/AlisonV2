@@ -14,9 +14,9 @@
 
 <h2> About Me </h2>
 
-- ⚙️ **I’m currently working on:** some MEVN project, writing better .md's 🙃 and improving my overall visibility 👁️
+- ⚙️ **I’m currently working on:** some MEVN project, an Ionic mobile app, Google Cloud Certification 🙃 and improving my overall visibility 👁️
 
-- 📚 **I’m currently learning:** Node, No-SQL and anything Devops-related
+- 📚 **I’m currently learning:** Node, Ionic, Google Cloud and of course Vue 💖. Aaand I can't wait to try out Nuxt3! 😍
 
 - 💬 **Talk to me about:** Anything and everything you'd like 🤪
 
