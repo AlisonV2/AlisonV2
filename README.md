@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-- ⚙️ **I’m currently working on:** some MEVN project, getting better at DevOps, Google Cloud Certification 🙃
+- ⚙️ **I’m currently working on:** some MEVN projects & a UI-Components Vue Library 🙃
 
 - 📚 **I’m currently learning:** Node, k8s, Google Cloud and of course Vue 💖
 
