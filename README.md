@@ -5,8 +5,6 @@
 <h1>  Hi! I'm Alison 🦄 </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlisonV2.AlisonV2)
-
 </p>
 <div size='25px'> Thank you for taking the time to view my Github Profile 🤩
 </div>
