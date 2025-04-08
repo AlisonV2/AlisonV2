@@ -12,9 +12,9 @@
 
 <h2> About Me </h2>
 
-- ⚙️ **I’m currently working on:** Some Ionic Vue mobile apps 🙃
+- ⚙️ **I’m currently working on:** Expending my DevOps knowledge 🙃
 
-- 📚 **I’m currently learning:** Ionic, k8s, Google Cloud and of course Vue 💖
+- 📚 **I’m currently learning:** Microsoft Azure, Google Cloud, Python 💖
 
 - 💬 **Talk to me about:** Anything and everything you'd like 🤪
 
